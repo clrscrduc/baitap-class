@@ -1,0 +1,22 @@
+
+
+Bài tập: Viết chương trình quản lý cán bộ theo hướng đối tượng. Trong đó:
+a.Thông tin của cán bộ bao gồm thông tin sau:
+	- Mã cán bộ (string) (Phải bắt đầu bởi kí tự ‘BA’, độ dài 5)
+	- Họ tên (String)
+	- Giới tính (boolen 0 nữ, 1 nam)
+	- Năm sinh (datetime)
+	- Chuyên môn (string)
+	- Hệ số lương (float)
+	- Phụ cấp
+	- Thực lĩnh: Không nhập dữ liệu vào, tính theo công thức = Hệ số lương*450000 + Phụ cấp
+
+b. Yêu cầu viết chương trình dưới dạng hướng đối tượng để thực hiện các thao tác
+sau:
+	- Tạo một dánh sách cán bộ (không cần nhập từ bàn phím)
+	- Tính tổng số lương thu nhập của toàn bộ cán bộ trong danh sách
+	- Liệt kê các cán bộ có chuyên môn “ Công nghệ thông tin “ hiện có trong danh sách
+	- Liệt kê danh sách các cán bộ đến tuổi nghỉ hưu (tuổi >= 50 với nữ, 55 với nam)
+	- Sắp xếp danh sách theo mã cán bộ
+	- Loại bỏ một cán bộ có mã xác định khỏi danh sách
+	- Thêm một cán bộ vào trong danh sách.
